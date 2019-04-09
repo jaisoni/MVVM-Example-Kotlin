@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BillGenerator</string>
+    <string name="action_done">Done</string>
+    <string name="product_name">Product Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="title_bucket">Bucket</string>
+    <string name="title_bill">Bill</string>
+    <string name="candy">Candy</string>
+    <string name="popcorn">Popcorn</string>
+    <string name="coffee">Coffee</string>
+    <string name="other">Other</string>
+    <string name="imported">Imported</string>
+    <string name="error_mendatory_field">All fields are mandatory</string>
+</resources>

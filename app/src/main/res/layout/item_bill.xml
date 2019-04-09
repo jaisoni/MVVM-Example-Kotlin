@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <data>
+
+        <variable
+            name="basket"
+            type="dev.jai.billgenerator.model.Basket" />
+    </data>
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_default_start_end"
+        android:layout_marginTop="@dimen/margin_default_start_end_half"
+        android:layout_marginRight="@dimen/margin_default_start_end"
+        android:layout_marginBottom="@dimen/margin_default_start_end_half"
+        android:text="@{basket}"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@color/black">
+
+    </TextView>
+</layout>

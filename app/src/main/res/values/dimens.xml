@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_default_start_end">16dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+    <dimen name="margin_default_start_end_half">8dp</dimen>
+    <dimen name="elevation_default">8dp</dimen>
+    <dimen name="card_radius_default">8dp</dimen>
+</resources>
